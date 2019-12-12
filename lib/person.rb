@@ -4,6 +4,6 @@ class Person
   end 
   
   def name 
-    
-  end
+    @name
+  end 
 end
