@@ -1,0 +1,3 @@
+def class Dog 
+  
+end
